@@ -171,7 +171,7 @@ uvDiv[0]=ExpandScalarProduct[amp1Div[1]+ amp2[1]]//Simplify
 
 uvDiv[1]=(uvDiv[0]/.renormalizationConstants)//Simplify
 
-
+Print[1]
 FCCompareResults[uvDiv[1],0,
 Text->{"\tThe UV divergence of the ghost-gluon vertex at 1-loop is cancelled by \
 the counter-term :",
