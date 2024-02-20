@@ -45,3 +45,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with FeynCalc.  If not, see <http://www.gnu.org/licenses/>.
+
+I hardly changed anything yet but would like to try slowly or see..
